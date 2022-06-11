@@ -1,3 +1,4 @@
+// day two of the thirty day challenge
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
